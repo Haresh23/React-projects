@@ -25,7 +25,7 @@ const App = () => {
     const dattta = Chartdat.reverse();
     console.log(dattta);
     const myFunction = (date) => {
-        console.log(date);
+        console.log();
         // You can perform any other actions here
     };
     return (
