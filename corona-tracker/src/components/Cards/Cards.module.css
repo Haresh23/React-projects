@@ -1,0 +1,11 @@
+.container {
+    margin: 20px 0;
+}
+
+
+.content {
+    width: 100%;
+    background-color: #dedede;
+    border-bottom: 10px solid;
+    margin: 20px 0;
+}
